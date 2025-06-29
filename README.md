@@ -208,3 +208,25 @@ The cycle runs almost for free
 
 
 
+
+---
+
+📜 License and Contribution Notice
+
+This idea and its description, as published here, are protected under a Creative Commons Attribution-NonCommercial (CC BY-NC) license.
+
+🛠 DIY / Maker-friendly:
+Everyone is welcome to use, replicate, and improve upon this idea for personal, educational, or non-commercial purposes. Feel free to share your results, photos, prototypes, and tests directly within this repository or as linked contributions.
+
+💼 Commercial Use Prohibited Without Permission:
+Any commercial use of this idea, in part or in full, requires explicit permission from the original author.
+
+🤝 Community & Merit-Based Rewards:
+If this project eventually receives any form of economic return, I (the author) will personally ensure that collaborators are compensated according to their level of contribution, in a way I deem fair and meritocratic.
+
+Thank you for building, sharing, and respecting the spirit of open, ethical innovation.
+— Pol Barreiro Font
+
+
+
+
