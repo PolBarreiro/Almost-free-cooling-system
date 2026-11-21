@@ -1,0 +1,49 @@
+name: Volunteer for the Global Urban Cooling Manual
+description: Offer a bounded human contribution to the future independent manual (temporary intake)
+title: "[Cooling manual volunteer] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This is a temporary intake in an experimental repository, NOT the manual. See [the public launch desk](../../GLOBAL_URBAN_COOLING_COMMUNITY_LAUNCH.md). Please do not post private contact details. Participation and affiliation are voluntary; no endorsement is implied.
+  - type: dropdown
+    id: role
+    attributes:
+      label: How would you like to contribute?
+      options:
+        - Human maintainer / governance
+        - Technical reviewer
+        - Urban planning / municipal implementation
+        - Climate / heat measurement
+        - Cost, procurement or maintenance
+        - Documentation / translation / accessibility
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: expertise
+    attributes:
+      label: Publicly shareable expertise
+      description: Relevant experience; do not claim institutional endorsement unless authorized.
+    validations:
+      required: true
+  - type: textarea
+    id: task
+    attributes:
+      label: One bounded task you can own
+      description: Example — review a source-backed city case study, define a measurement protocol, or help set up independent governance.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Relevant public references (optional)
+      description: URLs to existing open guidance or published measurements; please respect copyright and licenses.
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Participation
+      options:
+        - label: I consent to this public volunteer offer being visible on GitHub; I understand that maintainership requires separate agreement.
+          required: true
